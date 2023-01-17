@@ -1,0 +1,26 @@
+{
+  "name": "randomnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalcastroantony/RandomNodeJS.git"
+  },
+  "author": "Lal Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalcastroantony/RandomNodeJS/issues"
+  },
+  "homepage": "https://github.com/lalcastroantony/RandomNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
